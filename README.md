@@ -1,7 +1,8 @@
 # Project MD Templates
 
 A collection of Markdown templates for documenting projects clearly. The
-templates are meant to be filled in by humans and adapted to the size, type, and stage of each project.
+templates are written to be completed directly and adapted to the size, type,
+and stage of each project.
 
 ## What Is Included
 
